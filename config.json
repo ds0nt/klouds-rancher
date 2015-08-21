@@ -1,0 +1,11 @@
+{
+  "base": "/code/klouds",
+  "url": "http://146.148.60.70:8080/",
+  "projectname": "Klouds",
+  "accesskey": "77708E50E3BB2AD51F4F",
+  "secretkey": "C5AjAnNPPK4xSih7cEUYPmFrE3MwfzFy1QN1CbQc",
+  "env": {
+    "AWS_ACCESS_KEY_ID": "AKIAJQGMRIPLQQBOLFFA",
+    "AWS_SECRET_ACCESS_KEY": "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"
+  }
+}
